@@ -2,7 +2,7 @@
 
 Dependency management of bremersee's libraries.
 
-Compatible to Spring Boot 3.2.x
+Compatible to Spring Boot 3.3.x
 
 #### Maven Site
 
