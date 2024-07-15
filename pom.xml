@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>lib-bundle</artifactId>
-  <version>0.1.0</version>
+  <version>0.2.0-SNAPSHOT</version>
   <name>Lib Bundle</name>
   <description>Dependency management of bremersee's libraries</description>
   <url>https://github.com/bremersee/lib-bundle</url>
