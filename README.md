@@ -8,4 +8,4 @@ Compatible to Spring Boot 3.3.x
 
 - [Release](https://bremersee.github.io/lib-bundle/index.html)
 
-- [Snapshot](https://nexus.bremersee.org/repository/maven-sites/lib-bundle/0.2.0-SNAPSHOT/index.html)
+- [Snapshot](https://nexus.bremersee.org/repository/maven-sites/lib-bundle/0.1.2-SNAPSHOT/index.html)
