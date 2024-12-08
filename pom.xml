@@ -31,9 +31,9 @@
     <acl.version>0.2.0-SNAPSHOT</acl.version>
     <geojson.version>3.2.0-SNAPSHOT</geojson.version>
 
-    <garmin-model.version>2.1.0</garmin-model.version>
-    <gpx-model.version>2.1.0</gpx-model.version>
-    <kml-model.version>3.1.0</kml-model.version>
+    <garmin-model.version>2.2.0-SNAPSHOT</garmin-model.version>
+    <gpx-model.version>2.2.0-SNAPSHOT</gpx-model.version>
+    <kml-model.version>3.2.0-SNAPSHOT</kml-model.version>
   </properties>
 
   <developers>
